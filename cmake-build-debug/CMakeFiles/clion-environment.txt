@@ -1,0 +1,1 @@
+CMake: 3.6.3@/mnt/sda1/yhw_workspace/clion-2016.3.3/bin/cmake/bin/cmake

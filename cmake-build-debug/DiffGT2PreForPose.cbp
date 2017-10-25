@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DiffGT2PreForPose"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DiffGT2PreForPose_output">
+				<Option output="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/DiffGT2PreForPose_output" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/mnt/sda1/yihongwei/DiffGT2PreForPose/json"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiffGT2PreForPose_output"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DiffGT2PreForPose_output/fast">
+				<Option output="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/DiffGT2PreForPose_output" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/mnt/sda1/yihongwei/DiffGT2PreForPose/json"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiffGT2PreForPose_output/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DiffGT2PreForPose">
+				<Option output="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/DiffGT2PreForPose" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/mnt/sda1/yihongwei/DiffGT2PreForPose/json"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiffGT2PreForPose"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DiffGT2PreForPose/fast">
+				<Option output="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/DiffGT2PreForPose" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/mnt/sda1/yihongwei/DiffGT2PreForPose/json"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiffGT2PreForPose/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/jsoncpp.cpp">
+			<Option target="DiffGT2PreForPose_output"/>
+			<Option target="DiffGT2PreForPose"/>
+		</Unit>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/main.cpp">
+			<Option target="DiffGT2PreForPose"/>
+		</Unit>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/main_output.cpp">
+			<Option target="DiffGT2PreForPose_output"/>
+		</Unit>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/mnt/sda1/yihongwei/DiffGT2PreForPose/../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

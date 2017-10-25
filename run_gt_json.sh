@@ -1,0 +1,1 @@
+./build/DiffGT2PreForPose_output /mnt/sda1/yihongwei/dataset/AIChallenger/ai_challenger_keypoint_train_20170902/keypoint_train_images_20170902 /mnt/sda1/yihongwei/dataset/AIChallenger/ai_challenger_keypoint_train_20170902/anno_images /mnt/sda1/yihongwei/dataset/AIChallenger/ai_challenger_keypoint_train_20170902/keypoint_train_annotations_20170909.json  1 

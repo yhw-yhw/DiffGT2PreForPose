@@ -1,0 +1,4 @@
+/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/CMakeFiles/DiffGT2PreForPose_output.dir
+/mnt/sda1/yihongwei/DiffGT2PreForPose/cmake-build-debug/CMakeFiles/DiffGT2PreForPose.dir
